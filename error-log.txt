@@ -1,0 +1,443 @@
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.574 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.585 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.585 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.585 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.585 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.620 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.707 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.707 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.708 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.708 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.793 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.810 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.820 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.820 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.820 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:25:57 test-miner-229 go-filecoin[21195]: Jun 24 11:25:57.898 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:25:58 test-miner-229 go-filecoin[21195]: #033[0;37m11:25:58.627  INFO #033[0;34mchain.sync: #033[0mprocessing block 0 of 1 for chain with head at { zDPWYqFCzxHFekeqMpZekYhD67iiRvra24JDZDhXrKsFcwW34Kqr } #033[0;37mdefault_syncer.go:403#033[0m
+Jun 24 11:26:11 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:11.731  INFO #033[0;34m   autonat: #033[0mDiscovered AutoNAT peer QmXhxqTKzBKHA5FcMuiKZv8YaMPwpbKGXHRVZcFB2DX9XY #033[0;37mnotify.go:33#033[0m
+Jun 24 11:26:13 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:13.895  INFO #033[0;34m      node: #033[0mReceived new block from network cid: zDPWYqFCuXrBor8fWGSnYQY9Wop4YUaEcCZvKqBT9AWfZ7femiid height: 5429 #033[0;37mblock.go:56#033[0m
+Jun 24 11:26:14 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:14.081  INFO #033[0;34mchain.sync: #033[0mchain fetch from network complete { zDPWYqFCuXrBor8fWGSnYQY9Wop4YUaEcCZvKqBT9AWfZ7femiid } #033[0;37mdefault_syncer.go:130#033[0m
+Jun 24 11:26:18 test-miner-229 go-filecoin[21195]: Jun 24 11:26:18.823 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:18 test-miner-229 go-filecoin[21195]: Jun 24 11:26:18.823 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:18 test-miner-229 go-filecoin[21195]: Jun 24 11:26:18.823 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:18 test-miner-229 go-filecoin[21195]: Jun 24 11:26:18.824 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:18 test-miner-229 go-filecoin[21195]: Jun 24 11:26:18.872 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.167 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.167 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.167 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.167 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.203 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.223 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.227 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.227 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.227 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.273 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.285 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.288 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.288 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.288 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.369 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.386 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.386 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.386 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.386 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.419 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.495 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.495 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.495 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.495 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.566 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.703 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.703 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.703 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.703 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.749 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:19.810 #033[33mWARNI #033[0;34mnet/identi: #033[0merror reading identify message:  stream reset #033[0;37mid.go:146#033[0m
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.869 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.869 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.869 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.869 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:19.883 #033[33mWARNI #033[0;34mnet/identi: #033[0merror reading identify message:  stream reset #033[0;37mid.go:146#033[0m
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: Jun 24 11:26:19.912 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:19 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:19.934 #033[33mWARNI #033[0;34mnet/identi: #033[0merror reading identify message:  stream reset #033[0;37mid.go:146#033[0m
+Jun 24 11:26:25 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:25.021  INFO #033[0;34m    mining: #033[0mWorker.Mine #033[0;37mworker.go:176#033[0m
+Jun 24 11:26:25 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:25.819  INFO #033[0;34mchain.sync: #033[0mprocessing block 0 of 1 for chain with head at { zDPWYqFCuXrBor8fWGSnYQY9Wop4YUaEcCZvKqBT9AWfZ7femiid } #033[0;37mdefault_syncer.go:403#033[0m
+Jun 24 11:26:33 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:33.131  INFO #033[0;34m      node: #033[0mReceived new block from network cid: zDPWYqFCuMi73fxaySZitZsceuoPk21H8tkNuqrsER6Q8Qqe9Fcf height: 5429 #033[0;37mblock.go:56#033[0m
+Jun 24 11:26:33 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:33.199  INFO #033[0;34mchain.sync: #033[0mchain fetch from network complete { zDPWYqFCuMi73fxaySZitZsceuoPk21H8tkNuqrsER6Q8Qqe9Fcf } #033[0;37mdefault_syncer.go:130#033[0m
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.109 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.109 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.109 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.109 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.167 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.310 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.311 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.311 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.311 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.346 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.358 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.360 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.361 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.361 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.431 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.448 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.448 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.448 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.449 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.516 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.533 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.533 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.533 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.533 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.603 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.688 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.688 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.688 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.688 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.758 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.935 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.935 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.935 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.936 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:38 test-miner-229 go-filecoin[21195]: Jun 24 11:26:38.970 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.120 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.121 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.121 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.122 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.165 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.623 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.624 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.624 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.624 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.659 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.816 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.816 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.816 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.816 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.852 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.863 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.864 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.864 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.864 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.910 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.925 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.926 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.926 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.926 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:39 test-miner-229 go-filecoin[21195]: Jun 24 11:26:39.997 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.013 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.013 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.013 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.014 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.093 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.168 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.168 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.168 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.168 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.258 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.380 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.380 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.380 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.380 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.448 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.579 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.579 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.579 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.579 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:26:40 test-miner-229 go-filecoin[21195]: Jun 24 11:26:40.649 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:26:41 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:41.343  INFO #033[0;34m   autonat: #033[0mDiscovered AutoNAT peer QmZGDLdQLUTi7uYTNavKwCd7SBc5KMfxzWxAyvqRQvwuiV #033[0;37mnotify.go:33#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.330  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.341  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.374  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.378  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.390  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.396  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.405  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.410  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.418  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.426  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.435  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.465  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.477  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.501  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.528  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.543  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.567  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.586  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.592  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.602  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.606  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.623  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.627  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.631  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.659  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.671  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.676  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.704  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.708  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.717  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.729  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.744  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.751  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.757  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.767  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.778  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.784  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:45 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:45.798  INFO #033[0;34m    mqueue: #033[0mvalidation error adding message to pool: nonce too low #033[0;37mmessage_pool.go:166#033[0m
+Jun 24 11:26:49 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:49.915  INFO #033[0;34mchain.sync: #033[0mprocessing block 0 of 1 for chain with head at { zDPWYqFCuMi73fxaySZitZsceuoPk21H8tkNuqrsER6Q8Qqe9Fcf } #033[0;37mdefault_syncer.go:403#033[0m
+Jun 24 11:26:50 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:50.206 #033[33mWARNI #033[0;34mnet/identi: #033[0merror reading identify message:  short buffer #033[0;37mid.go:146#033[0m
+Jun 24 11:26:56 test-miner-229 go-filecoin[21195]: #033[0;37m11:26:56.026  INFO #033[0;34m    mining: #033[0mWorker.Mine #033[0;37mworker.go:176#033[0m
+Jun 24 11:27:09 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:09.902  INFO #033[0;34m   autonat: #033[0mDiscovered AutoNAT peer QmXq6XEYeEmUzBFuuKbVEGgxEpVD4xbSkG2Rhek6zkFMp4 #033[0;37mnotify.go:33#033[0m
+Jun 24 11:27:10 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:10.249  INFO #033[0;34m   autonat: #033[0mDiscovered AutoNAT peer QmXhxqTKzBKHA5FcMuiKZv8YaMPwpbKGXHRVZcFB2DX9XY #033[0;37mnotify.go:33#033[0m
+Jun 24 11:27:15 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:15.044 #033[33mWARNI #033[0;34m/fil/hello: #033[0mfailed to send hello handshake to peer QmZh6tSwwind83XSEozF6nb8tpJrrfef465iK5pN8ftDgo: stream reset #033[0;37mhello.go:179#033[0m
+Jun 24 11:27:15 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:15.489 #033[33mWARNI #033[0;34mnet/identi: #033[0merror reading identify message:  stream reset #033[0;37mid.go:146#033[0m
+Jun 24 11:27:20 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:20.779  INFO #033[0;34m      node: #033[0mauto-seal has been triggered #033[0;37mnode.go:874#033[0m
+Jun 24 11:27:25 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:25.065  INFO #033[0;34m   autonat: #033[0mDiscovered AutoNAT peer QmZGDLdQLUTi7uYTNavKwCd7SBc5KMfxzWxAyvqRQvwuiV #033[0;37mnotify.go:33#033[0m
+Jun 24 11:27:27 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:27.058  INFO #033[0;34m    mining: #033[0mWorker.Mine #033[0;37mworker.go:176#033[0m
+Jun 24 11:27:29 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:29.663  INFO #033[0;34m      node: #033[0mReceived new block from network cid: zDPWYqFD3VXRyYhGb2zD7GT39ZLCELQnyeBuZAeBemMQ6QnJickT height: 5430 #033[0;37mblock.go:56#033[0m
+Jun 24 11:27:29 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:29.747  INFO #033[0;34mchain.sync: #033[0mchain fetch from network complete { zDPWYqFD3VXRyYhGb2zD7GT39ZLCELQnyeBuZAeBemMQ6QnJickT } #033[0;37mdefault_syncer.go:130#033[0m
+Jun 24 11:27:34 test-miner-229 go-filecoin[21195]: Jun 24 11:27:34.369 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:27:34 test-miner-229 go-filecoin[21195]: Jun 24 11:27:34.369 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:27:34 test-miner-229 go-filecoin[21195]: Jun 24 11:27:34.369 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:27:34 test-miner-229 go-filecoin[21195]: Jun 24 11:27:34.369 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:27:34 test-miner-229 go-filecoin[21195]: Jun 24 11:27:34.441 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:27:34 test-miner-229 go-filecoin[21195]: Jun 24 11:27:34.612 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:27:34 test-miner-229 go-filecoin[21195]: Jun 24 11:27:34.612 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:27:34 test-miner-229 go-filecoin[21195]: Jun 24 11:27:34.612 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:27:34 test-miner-229 go-filecoin[21195]: Jun 24 11:27:34.612 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:27:34 test-miner-229 go-filecoin[21195]: Jun 24 11:27:34.647 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:27:36 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:36.369  INFO #033[0;34mchain.sync: #033[0mprocessing block 0 of 1 for chain with head at { zDPWYqFD3VXRyYhGb2zD7GT39ZLCELQnyeBuZAeBemMQ6QnJickT } #033[0;37mdefault_syncer.go:403#033[0m
+Jun 24 11:27:49 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:49.463  INFO #033[0;34m   autonat: #033[0mDiscovered AutoNAT peer QmZRnwmCjyNHgeNDiyT8mXRtGhP6uSzgHtrozc42crmVbg #033[0;37mnotify.go:33#033[0m
+Jun 24 11:27:56 test-miner-229 go-filecoin[21195]: Jun 24 11:27:56.663 INFO encoding, layer {}: 2, root: storage-proofs, place: storage-proofs/src/layered_drgporep.rs:445 storage_proofs::layered_drgporep
+Jun 24 11:27:58 test-miner-229 go-filecoin[21195]: #033[0;37m11:27:58.115  INFO #033[0;34m    mining: #033[0mWorker.Mine #033[0;37mworker.go:176#033[0m
+Jun 24 11:28:14 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:14.003  INFO #033[0;34m      node: #033[0mReceived new block from network cid: zDPWYqFCzLqxwaAur5phfLCyzNZ9M8XmhzkYRFMy29zMdCrTDPJ7 height: 5430 #033[0;37mblock.go:56#033[0m
+Jun 24 11:28:14 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:14.149  INFO #033[0;34mchain.sync: #033[0mchain fetch from network complete { zDPWYqFCzLqxwaAur5phfLCyzNZ9M8XmhzkYRFMy29zMdCrTDPJ7 } #033[0;37mdefault_syncer.go:130#033[0m
+Jun 24 11:28:21 test-miner-229 go-filecoin[21195]: Jun 24 11:28:21.942 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:28:21 test-miner-229 go-filecoin[21195]: Jun 24 11:28:21.949 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:28:21 test-miner-229 go-filecoin[21195]: Jun 24 11:28:21.949 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:28:21 test-miner-229 go-filecoin[21195]: Jun 24 11:28:21.950 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.029 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.127 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.127 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.127 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.128 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.181 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.278 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.278 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.279 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.279 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.333 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.468 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.468 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.468 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.468 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:28:22 test-miner-229 go-filecoin[21195]: Jun 24 11:28:22.536 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:28:27 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:27.612  INFO #033[0;34mchain.sync: #033[0mprocessing block 0 of 1 for chain with head at { zDPWYqFCzLqxwaAur5phfLCyzNZ9M8XmhzkYRFMy29zMdCrTDPJ7 } #033[0;37mdefault_syncer.go:403#033[0m
+Jun 24 11:28:28 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:28.537  INFO #033[0;34m      node: #033[0mReceived new block from network cid: zDPWYqFCvPupimX49j564nW5tkFATJJNavtr8eMbazrFrRGx6HUH height: 5431 #033[0;37mblock.go:56#033[0m
+Jun 24 11:28:28 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:28.688  INFO #033[0;34mchain.sync: #033[0mchain fetch from network complete { zDPWYqFCvPupimX49j564nW5tkFATJJNavtr8eMbazrFrRGx6HUH } #033[0;37mdefault_syncer.go:130#033[0m
+Jun 24 11:28:29 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:29.134  INFO #033[0;34m    mining: #033[0mWorker.Mine #033[0;37mworker.go:176#033[0m
+Jun 24 11:28:32 test-miner-229 go-filecoin[21195]: Jun 24 11:28:32.958 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:28:32 test-miner-229 go-filecoin[21195]: Jun 24 11:28:32.959 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:28:32 test-miner-229 go-filecoin[21195]: Jun 24 11:28:32.959 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:28:32 test-miner-229 go-filecoin[21195]: Jun 24 11:28:32.959 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.026 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.091 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.091 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.091 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.091 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.126 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.168 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.168 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.168 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.168 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.242 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.381 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.382 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.382 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.382 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.417 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.572 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.572 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.573 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.573 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:28:33 test-miner-229 go-filecoin[21195]: Jun 24 11:28:33.608 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:28:34 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:34.183  INFO #033[0;34mchain.sync: #033[0mprocessing block 0 of 1 for chain with head at { zDPWYqFCvPupimX49j564nW5tkFATJJNavtr8eMbazrFrRGx6HUH } #033[0;37mdefault_syncer.go:403#033[0m
+Jun 24 11:28:38 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:38.411  INFO #033[0;34m      node: #033[0mReceived new block from network cid: zDPWYqFCrstTcHLEr8ud5nBa7Gg1taXhePfE4XqNPndqdHqXd7Ge height: 5432 #033[0;37mblock.go:56#033[0m
+Jun 24 11:28:38 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:38.478  INFO #033[0;34mchain.sync: #033[0mchain fetch from network complete { zDPWYqFCrstTcHLEr8ud5nBa7Gg1taXhePfE4XqNPndqdHqXd7Ge } #033[0;37mdefault_syncer.go:130#033[0m
+Jun 24 11:28:47 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:47.243  INFO #033[0;34mchain.sync: #033[0mreorg occurring while switching from { zDPWYqFCzLqxwaAur5phfLCyzNZ9M8XmhzkYRFMy29zMdCrTDPJ7 } to { zDPWYqFCrstTcHLEr8ud5nBa7Gg1taXhePfE4XqNPndqdHqXd7Ge } #033[0;37mdefault_syncer.go:277#033[0m
+Jun 24 11:28:47 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:47.288  INFO #033[0;34mchain.sync: #033[0mprocessing block 0 of 1 for chain with head at { zDPWYqFCrstTcHLEr8ud5nBa7Gg1taXhePfE4XqNPndqdHqXd7Ge } #033[0;37mdefault_syncer.go:403#033[0m
+Jun 24 11:28:49 test-miner-229 go-filecoin[21195]: #033[0;37m11:28:49.858  INFO #033[0;34m   autonat: #033[0mDiscovered AutoNAT peer QmXq6XEYeEmUzBFuuKbVEGgxEpVD4xbSkG2Rhek6zkFMp4 #033[0;37mnotify.go:33#033[0m
+Jun 24 11:29:00 test-miner-229 go-filecoin[21195]: #033[0;37m11:29:00.139  INFO #033[0;34m    mining: #033[0mWorker.Mine #033[0;37mworker.go:176#033[0m
+Jun 24 11:29:07 test-miner-229 go-filecoin[21195]: #033[0;37m11:29:07.338  INFO #033[0;34m      node: #033[0mReceived new block from network cid: zDPWYqFCws7MGhwu36ptJkRTFgSQKFoyAjyAZHDLn7dwypUZ23ap height: 5431 #033[0;37mblock.go:56#033[0m
+Jun 24 11:29:07 test-miner-229 go-filecoin[21195]: #033[0;37m11:29:07.414  INFO #033[0;34mchain.sync: #033[0mchain fetch from network complete { zDPWYqFCws7MGhwu36ptJkRTFgSQKFoyAjyAZHDLn7dwypUZ23ap } #033[0;37mdefault_syncer.go:130#033[0m
+Jun 24 11:29:12 test-miner-229 go-filecoin[21195]: Jun 24 11:29:12.434 INFO verify_seal: start, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:47 filecoin_proofs::api
+Jun 24 11:29:12 test-miner-229 go-filecoin[21195]: Jun 24 11:29:12.434 INFO trying parameters memory cache for: ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:77 filecoin_proofs::api::internal
+Jun 24 11:29:12 test-miner-229 go-filecoin[21195]: Jun 24 11:29:12.434 INFO found params in memory cache for ZIGZAG[268435456]-verifying-key, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:82 filecoin_proofs::api::internal
+Jun 24 11:29:12 test-miner-229 go-filecoin[21195]: Jun 24 11:29:12.434 INFO got verifying key (268435456) while verifying seal, target: params, root: filecoin-proofs, place: filecoin-proofs/src/api/internal.rs:710 filecoin_proofs::api::internal
+Jun 24 11:29:12 test-miner-229 go-filecoin[21195]: Jun 24 11:29:12.497 INFO verify_seal: finish, target: FFI, root: filecoin-proofs, place: filecoin-proofs/src/api/mod.rs:88 filecoin_proofs::api
+Jun 24 11:29:17 test-miner-229 go-filecoin[21195]: #033[0;37m11:29:17.544  INFO #033[0;34mchain.sync: #033[0mreorg occurring while switching from { zDPWYqFCrstTcHLEr8ud5nBa7Gg1taXhePfE4XqNPndqdHqXd7Ge } to { zDPWYqFCws7MGhwu36ptJkRTFgSQKFoyAjyAZHDLn7dwypUZ23ap } #033[0;37mdefault_syncer.go:277#033[0m
+Jun 24 11:29:17 test-miner-229 go-filecoin[21195]: #033[0;37m11:29:17.604  INFO #033[0;34mchain.sync: #033[0mprocessing block 0 of 1 for chain with head at { zDPWYqFCws7MGhwu36ptJkRTFgSQKFoyAjyAZHDLn7dwypUZ23ap } #033[0;37mdefault_syncer.go:403#033[0m
+Jun 24 11:29:20 test-miner-229 go-filecoin[21195]: #033[0;37m11:29:20.794  INFO #033[0;34m      node: #033[0mauto-seal has been triggered #033[0;37mnode.go:874#033[0m
+Jun 24 11:29:30 test-miner-229 go-filecoin[21195]: #033[0;37m11:29:30.422 #033[33mWARNI #033[0;34mnet/identi: #033[0merror reading identify message:  short buffer #033[0;37mid.go:146#033[0m
+Jun 24 11:29:31 test-miner-229 go-filecoin[21195]: #033[0;37m11:29:31.343  INFO #033[0;34m    mining: #033[0mWorker.Mine #033[0;37mworker.go:176#033[0m
+Jun 24 11:29:40 test-miner-229 go-filecoin[21195]: #033[0;37m11:29:40.336  INFO #033[0;34m   autonat: #033[0mDiscovered AutoNAT peer Qmd6xrWYHsxivfakYRy6MszTpuAiEoFbgE1LWw4EvwBpp4 #033[0;37mnotify.go:33#033[0m
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348262] go-filecoin invoked oom-killer: gfp_mask=0x6200ca(GFP_HIGHUSER_MOVABLE), nodemask=(null), order=0, oom_score_adj=0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348263] go-filecoin cpuset=/ mems_allowed=0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348269] CPU: 0 PID: 21201 Comm: go-filecoin Not tainted 4.18.0-21-generic #22~18.04.1-Ubuntu
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348270] Hardware name: Default string Default string/Default string, BIOS 5.12 08/15/2018
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348271] Call Trace:
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348278]  dump_stack+0x63/0x85
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348281]  dump_header+0x71/0x285
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348284]  oom_kill_process+0x220/0x430
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348287]  out_of_memory+0x2ce/0x4f0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348290]  __alloc_pages_slowpath+0xa5f/0xe30
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348293]  __alloc_pages_nodemask+0x250/0x270
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348296]  alloc_pages_current+0x6a/0xe0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348298]  __page_cache_alloc+0x6a/0xa0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348300]  filemap_fault+0x3a7/0x750
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348303]  ? filemap_map_pages+0x181/0x390
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348306]  ext4_filemap_fault+0x31/0x44
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348309]  __do_fault+0x24/0xf0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348311]  handle_pte_fault+0x87e/0xd20
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348314]  __handle_mm_fault+0x3fd/0x580
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348318]  handle_mm_fault+0xe3/0x220
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348321]  __do_page_fault+0x250/0x4d0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348325]  do_page_fault+0x2d/0xf0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348328]  ? page_fault+0x8/0x30
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348330]  page_fault+0x1e/0x30
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348332] RIP: 0033:0x4dde59
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348333] Code: Bad RIP value.
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348338] RSP: 002b:000000c012bd8b20 EFLAGS: 00010216
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348341] RAX: 000000c000020000 RBX: 00000000e0a92825 RCX: 00000000000007ff
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348342] RDX: 0000000001727340 RSI: 000000000177f580 RDI: 000000c000042c01
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348343] RBP: 000000c012bd8b68 R08: 000000c000042bd0 R09: 0000000000000020
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348344] R10: 0000000000000016 R11: 0000000000000206 R12: 0000000000000001
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348345] R13: 0000000000000001 R14: 000000000000000a R15: 000000c00030b9e0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348347] Mem-Info:
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348352] active_anon:1726918 inactive_anon:215907 isolated_anon:0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348352]  active_file:263 inactive_file:298 isolated_file:0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348352]  unevictable:0 dirty:0 writeback:0 unstable:0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348352]  slab_reclaimable:10233 slab_unreclaimable:10502
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348352]  mapped:645364 shmem:661235 pagetables:12669 bounce:0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348352]  free:26516 free_pcp:0 free_cma:0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348356] Node 0 active_anon:6907672kB inactive_anon:863628kB active_file:1052kB inactive_file:1192kB unevictable:0kB isolated(anon):0kB isolated(file):0kB mapped:2581456kB dirty:0kB writeback:0kB shmem:2644940kB shmem_thp: 0kB shmem_pmdmapped: 0kB anon_thp: 2048kB writeback_tmp:0kB unstable:0kB all_unreclaimable? yes
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348357] Node 0 DMA free:15884kB min:132kB low:164kB high:196kB active_anon:0kB inactive_anon:0kB active_file:0kB inactive_file:0kB unevictable:0kB writepending:0kB present:15988kB managed:15884kB mlocked:0kB kernel_stack:0kB pagetables:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348362] lowmem_reserve[]: 0 2103 7818 7818 7818
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348366] Node 0 DMA32 free:40944kB min:18144kB low:22680kB high:27216kB active_anon:1955072kB inactive_anon:201336kB active_file:0kB inactive_file:0kB unevictable:0kB writepending:0kB present:2280252kB managed:2214676kB mlocked:0kB kernel_stack:80kB pagetables:5916kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348371] lowmem_reserve[]: 0 0 5715 5715 5715
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348374] Node 0 Normal free:49236kB min:49300kB low:61624kB high:73948kB active_anon:4952392kB inactive_anon:662120kB active_file:1060kB inactive_file:1060kB unevictable:0kB writepending:0kB present:6012928kB managed:5858684kB mlocked:0kB kernel_stack:6928kB pagetables:44760kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348379] lowmem_reserve[]: 0 0 0 0 0
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348382] Node 0 DMA: 3*4kB (U) 2*8kB (U) 3*16kB (U) 2*32kB (U) 2*64kB (U) 2*128kB (U) 0*256kB 0*512kB 1*1024kB (U) 1*2048kB (M) 3*4096kB (M) = 15884kB
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348397] Node 0 DMA32: 247*4kB (UME) 115*8kB (UME) 102*16kB (UME) 72*32kB (UME) 94*64kB (UE) 71*128kB (UME) 51*256kB (UME) 8*512kB (ME) 3*1024kB (UME) 0*2048kB 0*4096kB = 41172kB
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348411] Node 0 Normal: 524*4kB (UME) 245*8kB (UME) 276*16kB (UME) 340*32kB (UME) 207*64kB (UME) 64*128kB (UME) 22*256kB (ME) 6*512kB (ME) 1*1024kB (M) 0*2048kB 0*4096kB = 50520kB
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348427] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=1048576kB
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348428] Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=2048kB
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348429] 665908 total pagecache pages
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348430] 4002 pages in swap cache
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348432] Swap cache stats: add 1503222, delete 1499368, find 363639/392731
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348432] Free swap  = 0kB
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348433] Total swap = 2097148kB
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348434] 2077292 pages RAM
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348435] 0 pages HighMem/MovableOnly
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348435] 54981 pages reserved
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348436] 0 pages cma reserved
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348436] 0 pages hwpoisoned
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348437] [ pid ]   uid  tgid total_vm      rss pgtables_bytes swapents oom_score_adj name
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348449] [  348]     0   348   143796      102  1175552      279             0 systemd-journal
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348451] [  363]     0   363    26476        1    94208       60             0 lvmetad
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348454] [  369]     0   369    11936       12   122880      644         -1000 systemd-udevd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348457] [  417]     0   417    11134       30   135168       68             0 plymouthd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348460] [  663]   101   663    17689       54   180224      128             0 systemd-resolve
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348462] [  665] 62583   665    36527        6   188416      152             0 systemd-timesyn
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348464] [  795]     0   795    27627       34   110592       54             0 irqbalance
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348467] [  800]   103   800    12829      263   139264      152          -900 dbus-daemon
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348469] [  821]     0   821    11305       15   126976      128             0 wpa_supplicant
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348471] [  823]     0   823    46742       69   212992      140             0 thermald
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348473] [  828]     0   828    17678       42   180224      175             0 systemd-logind
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348475] [  829]     0   829     9607       26   118784       47             0 cron
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348478] [  830]     0   830   125837      413   348160      364             0 udisksd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348480] [  831]     0   831    44423        1   233472     1985             0 networkd-dispat
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348482] [  832]     0   832   106814        0   327680      394             0 ModemManager
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348484] [  833]     0   833     1138        0    53248       41             0 acpid
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348486] [  834]   102   834    67333       61   172032      360             0 rsyslogd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348489] [  835]     0   835   122996      252   454656      515             0 NetworkManager
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348490] [  836]   116   836    11817       46   139264       65             0 avahi-daemon
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348493] [  837]     0   837    74261       22   221184      256             0 accounts-daemon
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348495] [  838]     0   838   327538     1165   335872     2178          -900 snapd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348497] [  866]   116   866    11769        6   131072       79             0 avahi-daemon
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348499] [  867]     0   867    75913       26   352256      380             0 cups-browsed
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348501] [  878]     0   878    75763      135   225280      602             0 polkitd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348504] [  912]     0   912    48594        0   274432     2007             0 unattended-upgr
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348506] [  921]     0   921     3250        0    69632       34             0 plymouth
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348508] [  928]     0   928    77013        0   229376      276             0 gdm3
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348510] [  938]     0   938    18074        1   180224      187         -1000 sshd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348512] [  945]     0   945    65389        0   282624      325             0 gdm-session-wor
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348515] [  976]   121   976    19256        0   188416      373             0 systemd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348517] [  978]   121   978    28544       10   253952      673             0 (sd-pam)
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348519] [  990]   121   990    49449        1   151552      145             0 gdm-wayland-ses
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348521] [  996]   121   996    12566        0   143360      226             0 dbus-daemon
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348524] [ 1000]   121  1000   176605        0   438272      611             0 gnome-session-b
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348526] [ 1019]   121  1019   796781     4947  1232896     6689             0 gnome-shell
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348529] [ 1046]     0  1046    80579        0   241664      311             0 upowerd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348531] [ 1057]   121  1057   153514       37   544768     2967             0 Xwayland
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348533] [ 1066]   121  1066    87316        1   172032      195             0 at-spi-bus-laun
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348536] [ 1071]   121  1071    12482        0   147456      121             0 dbus-daemon
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348538] [ 1073]   121  1073    55190        0   192512      203             0 at-spi2-registr
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348540] [ 1077]   121  1077   270364        0   380928      678             0 pulseaudio
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348542] [ 1078]   109  1078    45876        0   126976       76             0 rtkit-daemon
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348545] [ 1091]   121  1091    90366        1   200704      355             0 ibus-daemon
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348547] [ 1094]   121  1094    70185        0   184320      181             0 ibus-dconf
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348549] [ 1097]   121  1097   121678        1   573440     1762             0 ibus-x11
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348552] [ 1099]   121  1099    69639        0   167936      172             0 ibus-portal
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348554] [ 1110]     0  1110    74217        0   217088      253             0 boltd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348556] [ 1112]     0  1112    93418       30   307200      427             0 packagekitd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348559] [ 1113]   121  1113   159309        2   598016     1919             0 gsd-xsettings
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348561] [ 1114]   121  1114    69539        0   167936      179             0 gsd-a11y-settin
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348563] [ 1118]   121  1118   121576        0   569344     1761             0 gsd-clipboard
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348566] [ 1119]   121  1119   182627      909   638976     1511             0 gsd-color
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348568] [ 1126]   121  1126    98426        0   454656      491             0 gsd-datetime
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348570] [ 1129]   121  1129    70935        0   184320      163             0 gsd-housekeepin
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348573] [ 1130]   121  1130   160178        1   610304     1805             0 gsd-keyboard
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348575] [ 1136]   121  1136   303483        0   692224     1938             0 gsd-media-keys
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348577] [ 1138]   121  1138    50499        0   167936      150             0 gsd-mouse
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348580] [ 1139]   121  1139   162884       44   643072     1844             0 gsd-power
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348582] [ 1142]   121  1142    66752        0   282624      306             0 gsd-print-notif
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348584] [ 1143]   121  1143    50504        0   167936      149             0 gsd-rfkill
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348586] [ 1146]   121  1146    68933        0   172032      168             0 gsd-screensaver
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348589] [ 1149]   121  1149    76276        0   229376      280             0 gsd-sharing
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348591] [ 1153]   121  1153    94485        1   237568      260             0 gsd-smartcard
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348594] [ 1156]   121  1156    83214        0   282624      280             0 gsd-sound
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348596] [ 1159]   121  1159   142849        0   606208     1897             0 gsd-wacom
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348598] [ 1164]   121  1164    51222        1   172032      175             0 ibus-engine-sim
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348600] [ 1215]   117  1215    81246        0   258048     1210             0 colord
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348602] [ 1263]   112  1263    97112        0   385024      438             0 whoopsie
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348604] [ 1265]   113  1265    14234       27   143360       85             0 kerneloops
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348605] [ 1267]   113  1267    14234       27   147456       85             0 kerneloops
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348608] [11671]     0 11671    26946        2   245760      250             0 sshd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348609] [11673]  1000 11673    19227        1   196608      330             0 systemd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348611] [11674]  1000 11674    65469       10   270336      758             0 (sd-pam)
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348612] [11794]  1000 11794    27521       38   249856      222             0 sshd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348614] [11795]  1000 11795     7602      119   102400      453             0 bash
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348617] [24679]     0 24679    26946        2   258048      249             0 sshd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348619] [24795]  1000 24795    27554       31   258048      260             0 sshd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348620] [24796]  1000 24796     3265        1    69632       43             0 sftp-server
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348622] [24802]  1000 24802     3265        1    69632       57             0 sftp-server
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348623] [24884]     0 24884    26946        2   258048      251             0 sshd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348625] [24949]  1000 24949    27521       35   262144      222             0 sshd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348627] [24950]  1000 24950     7474        2   114688      432             0 bash
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348628] [  789]     0   789    26946       10   253952      243             0 sshd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348630] [  949]  1000   949    27521       41   258048      218             0 sshd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348632] [  950]  1000   950     7471      101    98304      342             0 bash
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348634] [13581]  1000 13581     5413      183    86016       14             0 watch
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348635] [14003]     0 14003    26946        2   249856      251             0 sshd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348637] [14111]  1000 14111    27521       44   253952      217             0 sshd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348638] [14112]  1000 14112     7438      264   110592      132             0 bash
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348641] [10196]     0 10196    26888        2   237568      294             0 cupsd
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348642] [10198]     7 10198    21603        0   200704      208             0 dbus
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348644] [21195]  1000 21195  6788371  1912091 29343744    52847             0 go-filecoin
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348646] [19327]  1000 19327     3653       24    73728        0             0 tail
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348648] Out of memory: Kill process 21195 (go-filecoin) score 774 or sacrifice child
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.348699] Killed process 21195 (go-filecoin) total-vm:27153484kB, anon-rss:5066996kB, file-rss:0kB, shmem-rss:2581368kB
+Jun 24 11:29:42 test-miner-229 kernel: [1018748.561208] oom_reaper: reaped process 21195 (go-filecoin), now anon-rss:0kB, file-rss:0kB, shmem-rss:2576316kB
+Jun 24 11:29:43 test-miner-229 systemd[1]: filecoin.service: Main process exited, code=killed, status=9/KILL
+Jun 24 11:29:43 test-miner-229 systemd[1]: filecoin.service: Failed with result 'signal'.
